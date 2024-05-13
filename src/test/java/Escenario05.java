@@ -52,7 +52,6 @@ public class Escenario05 {
         dp.esperar(dp.getBtnAllItems());
         dp.clickAllItems();
     }
-
     @AfterEach
     public   void finalTest (){
        //driver.quit();
